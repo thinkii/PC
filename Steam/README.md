@@ -1,4 +1,4 @@
-# Tabla de contenido
+# Índice
 
 - [Parámetros](#Parámetros)
 - [Biblioteca](#Biblioteca)
