@@ -8,4 +8,6 @@ Este repositorio está orientado a la optimización del PC para CS:GO especialme
 
 - Añadido `Steam` con cosillas para CS:GO y ajustes de Steam en general.
 
+- Añadido `BIOS`
+
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
