@@ -1,6 +1,6 @@
 # Tabla de contenido
 
-- [AParámetros](#Parámetros)
+- [Parámetros](#Parámetros)
 - [Biblioteca](#Biblioteca)
 - [Opciones de lanzamiento](#Opciones-de-lanzamiento)
 
