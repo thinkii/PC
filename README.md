@@ -12,4 +12,8 @@ Este repositorio está orientado a la optimización del PC para CS:GO especialme
 
 - Añadido `W10 LTSC`
 
+- Añadido `Ratón`
+
+- Añadido `Monitor`
+
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
