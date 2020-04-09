@@ -10,4 +10,6 @@ Este repositorio está orientado a la optimización del PC para CS:GO especialme
 
 - Añadido `BIOS`
 
+- Añadido `W10 LTSC`
+
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
