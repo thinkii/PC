@@ -21,3 +21,11 @@ Esto es para desactivar que se os minimicen los juegos o que se os abra una vent
 Panel de control - Accesibilidad - Centro de accesibilidad - Facilitar el uso del teclado
 
 Y dentro desactiváis todas las casillas.
+
+> Sistema - Rendimiento
+
+Si tu PC es una patatilla (yo también lo tengo así y el mío no lo es) también es interesante tocar esto:
+
+Botón derecho en Inicio, Sistema, [Información de sistema](https://i.gyazo.com/c403d3ca6c8dc0136ba0ee8d9a1b8354.png), [Configuración avanzada de sistema](https://i.gyazo.com/dd7ae324fc2f1496fe954eb966272d18.png) y hacemos clic [aquí](https://i.gyazo.com/7b191eb486cac3b4370bafb6c4ebd2e7.png).
+
+Si lo dejáis como [esto](https://i.gyazo.com/7573895f8ac530d7c3f45ccfc18238ac.png) no notaréis diferencia más allá de la fuente, que cambiará un poquito.
