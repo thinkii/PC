@@ -3,6 +3,8 @@
 - [Tienda](#Tienda)
 - [Galería de imágenes](#Galería-de-imágenes)
 
+## ¿Qué es W10 LTSC?
+
 Windows 10 LTSC, como he explicado otras veces, es un Windows al que las actualizaciones llegan con meses de retraso, es decir, no te vas a comer un bug en una actualización como aquella famosa que borraba datos de los discos SSD.
 
 Las actus están pulidas y si te vas a `Misc` podrás ver cómo hacer que no las busque por su propia cuenta.
