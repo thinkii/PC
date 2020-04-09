@@ -14,13 +14,13 @@ Una vez que tengáis eso hecho tendréis que poner en Inicio `gpedit.msc`, ya de
 
 Lo dejaremos tal que [así](https://i.gyazo.com/1324903f09075658503a69c5f1ac28dd.png). Esto impide a Windows descargar las actualizaciones por su cuenta y así no nos tocará los cojones. Cuando quieras una actualización vas tú a buscarla manualmente y la instalará porque tú quieres, nada de que haga su movida él solito.
 
-> Plan de energía
+## Plan de energía
 
 Escribimos en inicio `Elegir un plan de energía` y elegimos `Alto rendimiento` o `Máximo rendimiento` en caso de ser posible.
 
 Si solo os muestra el modo `Equilibrado` poned esto en el CMD `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
-> Teclas especiales 
+## Teclas especiales 
 
 Esto es para desactivar que se os minimicen los juegos o que se os abra una ventana al presionar 5 veces seguidas el shift
 
@@ -28,7 +28,7 @@ Panel de control - Accesibilidad - Centro de accesibilidad - Facilitar el uso de
 
 Y dentro desactiváis todas las casillas.
 
-> Sistema - Rendimiento
+## Sistema - Rendimiento
 
 Si tu PC es una patatilla (yo también lo tengo así y el mío no lo es) también es interesante tocar esto:
 
