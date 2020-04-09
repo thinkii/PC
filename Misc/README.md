@@ -1,6 +1,9 @@
 # Tabla de contenido
 
 - Actualizaciones de Windows
+- Plan de energía
+- Teclas especiales
+- Sistema - Rendimiento
 
 Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.
 
