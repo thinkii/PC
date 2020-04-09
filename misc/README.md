@@ -2,7 +2,7 @@ Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script)
 
 - Actualizaciones de Windows
 
-Bien, yo aquí recomiendo usar siempre Windows 10 LTSC, si buscáis por los mares lo encontraréis. ¿Por qué? Porque trae menos mierda que el W10 normal, por poneros un ejemplo no trae ni la tienda de Windows, es decir, no podréis descargaros Netflix sin hacer una movida antes.
+Bien, yo aquí recomiendo usar siempre Windows 10 LTSC, si buscáis por los mares lo encontraréis. ¿Por qué? Porque trae menos mierda que el W10 normal, por poneros un ejemplo no trae ni la tienda de Windows, es decir, no podréis descargaros Netflix sin hacer una movida antes. Aparte, las actualizaciones de Windows llegan unos meses más tarde que a los Windows 10 normales, es decir, que llegan ya pulidas y sin fallos.
 
 Una vez que tengáis eso hecho tendréis que poner en Inicio `gpedit.msc`, ya dentro iremos a `Configuración del equipo`, `Plantillas administrativas`, `Componentes de Windows`, `Windows Update` y `Configurar Actualizaciones Automáticas`.
 
