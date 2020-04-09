@@ -6,7 +6,7 @@ Después, en la misma ventana, iremos a `Reproducción` y elegiremos nuestro dis
 
 Por último iremos a la pestaña `Opciones avanzadas` y elegiremos [esta opción](https://i.gyazo.com/c4942a566a415b92932fe7cfbb462f8a.png) en cuanto a calidad de sonido se refiere. En algunos sitios recomiendan 44100 Hz pero a mí la que mejor me ha ido siempre ha sido esta, nunca me ha dado ningún problema.
 
-- TeamSpeak
+> TeamSpeak
 
 Me voy a fumar un señor puro y voy a meter TeamSpeak aquí, os recomiendo que os creéis una cuenta de MyTeamSpeak, así se os sincronizará vuestra cuenta (admins en diferentes servidores de TS, los servidores que tengáis en marcadores, etc.) con MyTeamSpeak y al formatear todo no perderéis nada.
 
