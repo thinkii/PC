@@ -22,6 +22,6 @@ Un desarrollador de Valve dijo en reddit que las mejores opciones de lanzamiento
 
 Dentro de las más útiles yo metería `-novid`, `-high` (solo si tu PC es bueno, si tienes un PC normalito o patatilla puede causar más problemas que beneficios) y `-tickrate 128`
 
-Mención especial a `+clientport XXXXXX` que nos salva de muchos problemas especialmente en Faceit. 
+Mención especial a `+clientport XXXXX` que nos salva de muchos problemas especialmente en Faceit. 
 
 Su funcionamiento es sencillo, si la IP a la que te vas a conectar es esta por ejemplo: XX.XXX.XXX.XX:20020 pondremos en opciones de lanzamiento `+clientport 20020`, pero solo si entramos al servidor previamente y tenemos loss o mucho ping por bad routing.
