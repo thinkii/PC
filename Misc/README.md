@@ -1,6 +1,6 @@
 # Tabla de contenido
 
-- Actualizaciones de Windows
+- [Actualizaciones de Windows](#Actualizaciones-de-Windows)
 - Plan de energía
 - Teclas especiales
 - Sistema - Rendimiento
