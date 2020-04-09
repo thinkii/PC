@@ -20,16 +20,6 @@ Recomiendo también de vez en cuando coger un bastoncillo, darle alcohol y limpi
 
 Y con la alfombrilla más de lo mismo, de vez en cuando una lavadita no le viene mal, que se acumula la mierda que da miedo.
 
-## DPI
-
-Yo los llevo a 800 desde hace muchos años, los DPI son la cantidad de puntos que recorre el puntero por pulgada.
-
-Pienso que el equilibrio está en 800, 400 es poco y a 800 se nota algo de mejoría.
-
-## Hz del ratón
-
-Recomiendo tenerlos a 1000 o como muy poco 500, yo si lo tengo a menos noto que no va fluido del todo.
-
 ## Accel v2
 
 Hay veces que no se desactiva bien la aceleración desde el panel de control, así que lo más seguro es hacerlo desde el registro
@@ -54,3 +44,13 @@ Lo dejamos tal que así
     cd,4c,05,00,00,00,00,00
     a0,99,0a,00,00,00,00,00
     38,33,15,00,00,00,00,00
+
+## DPI
+
+Yo los llevo a 800 desde hace muchos años, los DPI son la cantidad de puntos que recorre el puntero por pulgada.
+
+Pienso que el equilibrio está en 800, 400 es poco y a 800 se nota algo de mejoría.
+
+## Hz del ratón
+
+Recomiendo tenerlos a 1000 o como muy poco 500, yo si lo tengo a menos noto que no va fluido del todo.
