@@ -1,4 +1,4 @@
-# Tabla de contenido
+# Índice
 
 - [TeamSpeak](#TeamSpeak)
 - [Drivers de sonido](#Drivers-de-sonido)
