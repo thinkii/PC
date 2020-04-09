@@ -26,17 +26,17 @@ En inicio escribimos **regedit** y lo ejecutamos como administrador. Vamos a `HK
 
 Lo dejamos tal que así
 
-`SmoothMouseXCurve
+**SmoothMouseXCurve**
 
-00,00,00,00,00,00,00,00
+`00,00,00,00,00,00,00,00
 00,a0,00,00,00,00,00,00
 00,40,01,00,00,00,00,00
 00,80,02,00,00,00,00,00
-00,00,05,00,00,00,00,00
+00,00,05,00,00,00,00,00`
 
-SmoothMouseYCurve
+**SmoothMouseYCurve**
 
-00,00,00,00,00,00,00,00
+`00,00,00,00,00,00,00,00
 66,a6,02,00,00,00,00,00
 cd,4c,05,00,00,00,00,00
 a0,99,0a,00,00,00,00,00
