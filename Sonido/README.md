@@ -3,7 +3,7 @@
 - [TeamSpeak](#TeamSpeak)
 - [Drivers de sonido](#Drivers-de-sonido)
 
-## Intro
+## Primeros pasos en Windows recién instalado
 
 Lo primero que queremos hacer nada más arrancar Windows por primera vez es cambiar las comunicaciones a `No hacer nada`
 
