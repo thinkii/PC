@@ -1,10 +1,15 @@
+# Índice
+
+- [Tienda](#Tienda)
+- [Galería de imágenes](#Galería-de-imágenes)
+
 Windows 10 LTSC, como he explicado otras veces, es un Windows al que las actualizaciones llegan con meses de retraso, es decir, no te vas a comer un bug en una actualización como aquella famosa que borraba datos de los discos SSD.
 
 Las actus están pulidas y si te vas a `Misc` podrás ver cómo hacer que no las busque por su propia cuenta.
 
 Bien, tampoco trae Tienda de Windows ni el visor de fotos nuevo que reproduce gifs, pero bueno, voy a dejar aquí un minitutorial sobre cómo activar el visor de W7, ya que por no traer, no trae ni visor de fotos.
 
-> Tienda
+## Tienda
 
 Si queréis instalar la tienda por algún casual lo podéis hacer [aquí](https://mega.nz/file/AR9jDQiA#8G8HEQZTXX1nViPnKpdrT7GUDCl_9z_SX8_jH91sLKs)
 
@@ -24,7 +29,7 @@ Esta app es necesaria para el correcto funcionamiento de la tienda con los servi
 
 [Imagen](https://i.gyazo.com/b2f5335687f0e6a235fd0dc8abbfd935.png)
 
-> Instalación de la galería de imágenes
+## Galería de imágenes
 
 Para activar la galería de imágenes nativa de Windows [descargamos el siguiente registro y lo ejecutamos](https://mega.nz/file/gENDlBII#h5euasFF_QO2GzZlQ37amym_J7lszbGjU15Byd4fQxQ)
 
