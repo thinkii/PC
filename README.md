@@ -2,10 +2,10 @@ Este repositorio está orientado a la optimización del PC para CS:GO especialme
 
 > **09/04/2020** - Añadidos `Ratón`, `Misc` y `Sonido`.
 
-Añadido TeamSpeak en `Sonido` y Planes de energía en `Misc`
+- Añadido TeamSpeak en `Sonido` y Planes de energía en `Misc`
 
-Añadido `Gráficos` para ajustes de Nvidia principalmente (ya que no uso AMDEP)
+- Añadido `Gráficos` para ajustes de Nvidia principalmente (ya que no uso AMDEP)
 
-Añadido `Steam` con cosillas para CS:GO y ajustes de Steam en general.
+- Añadido `Steam` con cosillas para CS:GO y ajustes de Steam en general.
 
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
