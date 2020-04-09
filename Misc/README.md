@@ -4,6 +4,7 @@
 - [Plan de energía](#Plan-de-energía)
 - [Teclas especiales](#Teclas-especiales)
 - [Sistema modo rendimiento](#Sistema-modo-rendimiento)
+- [Administración del espacio](#Administración-del-espacio)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
@@ -38,3 +39,9 @@ Si tu PC es una patatilla (yo también lo tengo así y el mío no lo es) tambié
 Botón derecho en Inicio, Sistema, [Información de sistema](https://i.gyazo.com/c403d3ca6c8dc0136ba0ee8d9a1b8354.png), [Configuración avanzada de sistema](https://i.gyazo.com/dd7ae324fc2f1496fe954eb966272d18.png) y hacemos clic [aquí](https://i.gyazo.com/7b191eb486cac3b4370bafb6c4ebd2e7.png).
 
 Si lo dejáis como [esto](https://i.gyazo.com/7573895f8ac530d7c3f45ccfc18238ac.png) no notaréis diferencia más allá de la fuente, que cambiará un poquito.
+
+## Administración del espacio
+
+De toda la vida he instalado en C: (que suele ser el SSD) lo más importante y lo que más uso, como por ejemplo el navegador, Steam, etc.
+
+Lo que queremos es que el CS esté a poder ser en un SSD por tema de tiempos de carga y demás, en D: (en caso de que tengáis) sería lo suyo meter los datos y todo eso, para en caso de formatear seguir con todo ahí.
