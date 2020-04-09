@@ -3,7 +3,7 @@
 - [Actualizaciones de Windows](#Actualizaciones-de-Windows)
 - [Plan de energía](#Plan-de-energía)
 - [Teclas especiales](#Teclas-especiales)
-- [Sistema](#Sistema)
+- [Sistema modo rendimiento](#Sistema-modo-rendimiento)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
@@ -31,7 +31,7 @@ Panel de control - Accesibilidad - Centro de accesibilidad - Facilitar el uso de
 
 Y dentro desactiváis todas las casillas.
 
-## Sistema
+## Sistema modo rendimiento
 
 Si tu PC es una patatilla (yo también lo tengo así y el mío no lo es) también es interesante tocar esto:
 
