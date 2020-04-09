@@ -1,4 +1,8 @@
+> Sensibilidad
+
 La sensibilidad de Windows se deja siempre en 6/11, si no me equivoco es la que viene por defecto.
+
+> Aceleración 1.0
 
 Aunque dentro de CS:GO vayamos a usar el `m_rawinput "1"`, yo siempre desactivo la aceleración desde Windows "por si aca".
 
@@ -18,7 +22,7 @@ Pienso que el equilibrio está en 800, 400 es poco y a 800 se nota algo de mejor
 
 Recomiendo tenerlos a 1000 o como muy poco 500, yo si lo tengo a menos noto que no va fluido del todo.
 
-> Aceleración
+> Aceleración 2.0
 
 Hay veces que no se desactiva bien la aceleración desde el panel de control, así que lo más seguro es hacerlo desde el registro
 
