@@ -7,3 +7,13 @@ Para ello escribiremos `Mouse` en inicio y nos abrirá algo como [esto](https://
 Recomiendo también de vez en cuando coger un bastoncillo, darle alcohol y limpiar el sensor con cuidado con él, sin hacer mucha fuerza.
 
 Y con la alfombrilla más de lo mismo, de vez en cuando una lavadita no le viene mal, que se acumula la mierda que da miedo.
+
+> DPI
+
+Yo los llevo a 800 desde hace muchos años, los DPI son la cantidad de puntos que recorre el puntero por pulgada.
+
+Pienso que el equilibrio está en 800, 400 es poco y a 800 se nota algo de mejoría.
+
+> Hz del ratón
+
+Recomiendo tenerlos a 1000 o como muy poco 500, yo si lo tengo a menos noto que no va fluido del todo
