@@ -2,8 +2,9 @@
 
 - [Sensibilidad](#Sensibilidad)
 - [Aceleración 1.0](#Aceleración-1.0)
-- [Sistema](#Sistema)
-- [Sistema](#Sistema)
+- [DPI](#DPI)
+- [Hz del ratón](#Hz-del-ratón)
+- [Aceleración 2.0](#Aceleración-2.0)
 
 ## Sensibilidad
 
