@@ -4,7 +4,7 @@
 - [Plan de energía](#Plan-de-energía)
 - [Teclas especiales](#Teclas-especiales)
 - [Sistema modo rendimiento](#Sistema-modo-rendimiento)
-- [Administración del espacio](#Administración-del-espacio)
+- [Administración del espacio en el disco duro](#Administración-del-espacio)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
