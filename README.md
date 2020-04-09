@@ -12,7 +12,7 @@ Este repositorio está orientado a la optimización del PC para CS:GO especialme
 
 - Añadido `BIOS`
 
-- Añadido `W10 LTSC`
+- Añadido y actualizado `W10 LTSC` con más contenido.
 
 - Añadido `Ratón`
 
