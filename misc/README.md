@@ -13,3 +13,11 @@ Lo dejaremos tal que [así](https://i.gyazo.com/1324903f09075658503a69c5f1ac28dd
 Escribimos en inicio `Elegir un plan de energía` y elegimos `Alto rendimiento` o `Máximo rendimiento` en caso de ser posible.
 
 Si solo os muestra el modo `Equilibrado` poned esto en el CMD `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
+
+> Teclas especiales 
+
+Esto es para desactivar que se os minimicen los juegos o que se os abra una ventana al presionar 5 veces seguidas el shift
+
+Panel de control - Accesibilidad - Centro de accesibilidad - Facilitar el uso del teclado
+
+Y dentro desactiváis todas las casillas.
