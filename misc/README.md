@@ -11,3 +11,5 @@ Lo dejaremos tal que [así](https://i.gyazo.com/1324903f09075658503a69c5f1ac28dd
 - Plan de energía
 
 Escribimos en inicio `Elegir un plan de energía` y elegimos `Alto rendimiento` o `Máximo rendimiento` en caso de ser posible.
+
+Si solo os muestra el modo `Equilibrado` poned esto en el CMD `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
