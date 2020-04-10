@@ -12,14 +12,14 @@ Este repositorio está orientado a la optimización del PC para CS:GO especialme
 
 - Añadido `BIOS`
 
-- Añadido y actualizado `W10 LTSC` con más contenido.
+- Añadido y actualizado [W10 LTSC](https://github.com/thinkii/PC/tree/master/W10%20LTSC) con más contenido.
 
-- Añadido `Ratón`
+- Añadido [Ratón](https://github.com/thinkii/PC/tree/master/Rat%C3%B3n)
 
-- Añadido `Monitor`
+- Añadido [Monitor](https://github.com/thinkii/PC/tree/master/Monitor)
 
 > **10/04/2020**
 
-- Actualizado `Misc` con `Optimizaciones a pantalla completa` y `¿Qué versión de W10 usar?`
+- Actualizado `Misc` con [Optimizaciones a pantalla completa](https://github.com/thinkii/PC/tree/master/Misc#Optimizaciones-de-pantalla-completa) y [¿Qué versión de W10 usar?](https://github.com/thinkii/PC/tree/master/Misc#Windows-10)
 
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
