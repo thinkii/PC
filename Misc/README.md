@@ -82,3 +82,25 @@ Solo faltaría que estuviéramos jugando un Faceit o un oficial y se nos pusiera
 - Evitad cualquier build de Preview o Insider
 - Evitar ediciones Pro o Home
 - Usad Education (Enterprise) o versiones LTSC (si es posible)
+
+## Programador de tareas y Telemetría
+
+Aquí os dejo una lista de tareas a desactivar (afectan a privacidad y rendimiento)
+
+- \Microsoft\Windows\Application Experience > AitAgent, ProgramDataUpdater
+- \Microsoft\Windows\Autochk > Proxy
+- \Microsoft\Windows\Customer Experience Improvement Program> Consolidator, KernelCeipTask, UsbCeip
+- \Microsoft\Windows\DiskDiagnostic > Microsoft-Windows-DiskDiagnosticDataCollector
+- \Microsoft\Windows\Maintenance > WinSAT
+- \Microsoft\cSystemRestore > SR
+- \Microsoft\Windows\WindowsBackup > ConfigNotification
+- \Microsoft\Windows Defender > MP Scheduled Scan
+- \Library\Microsoft\Windows\WindowsColorSystem\Calibration Loader (disable it if you use your own Display Color Profile)
+- \Microsoft\Microsoft\CDPUserSvc
+
+Copia el contenido del [siguiente archivo](https://github.com/thinkii/PC/blob/master/Misc/antitelemtry.cmd) en un txt y pone este nombre `antitelemetry.cmd`
+
+Ejecútalo para desactivar las cosillas de telemetría (si lo has hecho con el script de Aikon esto es inútil, porque ya lo hiciste antes). Si por otro lado quieres asegurarte de que siempre va a estar todo bloqueado puedes crear una tarea para que se ejecute siempre que inicies Windows y así te curas en salud.
+
+1. Copia el archivo en `C:\Windows` y ejecuta CMD como administrador.
+2. SCHTASKS /Create /F /RU "SYSTEM" /RL HIGHEST /SC ONSTART /TN BlockW10 /TR "cmd /c %windir%\antitelemetry.cmd"
