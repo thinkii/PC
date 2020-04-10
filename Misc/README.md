@@ -1,4 +1,4 @@
-# Tabla de contenido
+# Índice
 
 - [Actualizaciones de Windows](#Actualizaciones-de-Windows)
 - [Plan de energía](#Plan-de-energía)
