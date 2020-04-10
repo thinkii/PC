@@ -2,6 +2,8 @@
 
 Si buscas la guía de cómo configurar tu servidor de CS:GO, está [aquí](https://github.com/thinkii/CSGO)
 
+### Changelog
+
 > **09/04/2020**
 
 - Añadidos [Ratón](https://github.com/thinkii/PC/tree/master/Rat%C3%B3n), [Misc](https://github.com/thinkii/PC/tree/master/Misc) y [Sonido](https://github.com/thinkii/PC/tree/master/Sonido).
