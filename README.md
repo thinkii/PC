@@ -24,4 +24,6 @@ Si buscas la guía de cómo configurar tu servidor de CS:GO, está [aquí](https
 
 - Actualizado [Misc](https://github.com/thinkii/PC/tree/master/Misc) con [Optimizaciones a pantalla completa](https://github.com/thinkii/PC/tree/master/Misc#Optimizaciones-de-pantalla-completa), [¿Qué versión de W10 usar?](https://github.com/thinkii/PC/tree/master/Misc#Windows-10) y [Programador de tareas y telemetría](https://github.com/thinkii/PC/blob/master/Misc/README.md#Programador-de-tareas-y-Telemetr%C3%ADa)
 
+- Actualizado [BIOS](https://github.com/thinkii/PC/tree/master/BIOS) con [SGX](https://github.com/thinkii/PC/tree/master/BIOS#sgx)
+
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
