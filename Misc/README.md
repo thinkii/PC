@@ -6,7 +6,7 @@
 - [Sistema modo rendimiento](#Sistema-modo-rendimiento)
 - [Administración del espacio en el disco duro](#Administración-del-espacio)
 - [Optimizaciones de pantalla completa](#Optimizaciones-de-pantalla-completa)
-- [Windows 10](#Windows-10)
+- [¿Qué versión de Windows 10 elijo?](#Windows-10)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
