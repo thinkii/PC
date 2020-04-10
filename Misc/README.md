@@ -5,6 +5,7 @@
 - [Teclas especiales](#Teclas-especiales)
 - [Sistema modo rendimiento](#Sistema-modo-rendimiento)
 - [Administración del espacio en el disco duro](#Administración-del-espacio)
+- [Optimizaciones de pantalla completa](#Optimizaciones-de-pantalla-completa)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
@@ -45,3 +46,24 @@ Si lo dejáis como [esto](https://i.gyazo.com/7573895f8ac530d7c3f45ccfc18238ac.p
 De toda la vida he instalado en C: (que suele ser el SSD) lo más importante y lo que más uso, como por ejemplo el navegador, Steam, etc.
 
 Lo que queremos es que el CS esté a poder ser en un SSD por tema de tiempos de carga y demás, en D: (en caso de que tengáis) sería lo suyo meter los datos y todo eso, para en caso de formatear seguir con todo ahí.
+
+## Optimizaciones de pantalla completa
+
+La `Optimización de pantalla completa` fue añadida en la build 1607 de Windows 10 ("Anniversary Update"). Lo que hace es intentar convertir los juegos que funcionan en modo "clásico" de pantalla completa en una especie de pantalla completa sin bordes en `flip model presentation`.
+
+### Pros
+
+- Las optimizaciones combinan los beneficios del modo de pantalla completa con los beneficios del modo pantalla completa sin bordes, utilizando el `flip model presentation` (perdonad pero no lo he conseguido encontrar en castellano) en una ventana sin bordes maximizada.
+- Disponible en aplicaciones y juegos basados en DirectX 9 o superior.
+
+### Contras
+
+- Puede causar problemas en algunos juegos
+
+### Desactivar optimización de pantalla completa
+
+En el caso de CS:GO basta con ir a la biblioteca de Steam, dar botón derecho a CS:GO, propiedades, pestaña de archivos locales, ver archivos locales y dar botón derecho a csgo.exe
+
+Una vez ahí, elegiremos propiedades, compatibilidad, y MARCAREMOS `Deshabilitar optimizaciones de pantalla completa`.
+
+Todo esto queda a vuestro propio criterio, ya que en algunos PCs se nota que va más fino el juego y en otros no, jugad con ese valor y dejadlo como mejor os funcione.
