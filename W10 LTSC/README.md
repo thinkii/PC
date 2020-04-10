@@ -7,7 +7,7 @@
 
 Windows 10 LTSC, como he explicado otras veces, es un Windows al que las actualizaciones llegan con meses de retraso, es decir, no te vas a comer un bug en una actualización como aquella famosa que borraba datos de los discos SSD.
 
-Las actus están pulidas y si te vas a `Misc` podrás ver cómo hacer que no las busque por su propia cuenta.
+Las actus están pulidas y si te vas a [Misc](https://github.com/thinkii/PC/tree/master/Misc) podrás ver cómo hacer que no las busque por su propia cuenta.
 
 Bien, tampoco trae Tienda de Windows ni el visor de fotos nuevo que reproduce gifs, pero bueno, voy a dejar aquí un minitutorial sobre cómo activar el visor de W7, ya que por no traer, no trae ni visor de fotos.
 
