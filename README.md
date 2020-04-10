@@ -18,4 +18,8 @@ Este repositorio está orientado a la optimización del PC para CS:GO especialme
 
 - Añadido `Monitor`
 
+> **10/04/2020**
+
+- Actualizado `Misc` con `Optimizaciones a pantalla completa` y `¿Qué versión de W10 usar?`
+
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
