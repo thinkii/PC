@@ -6,6 +6,7 @@
 - [Sistema modo rendimiento](#Sistema-modo-rendimiento)
 - [Administración del espacio en el disco duro](#Administración-del-espacio)
 - [Optimizaciones de pantalla completa](#Optimizaciones-de-pantalla-completa)
+- [Windows 10](#Windows-10)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
@@ -67,3 +68,17 @@ En el caso de CS:GO basta con ir a la biblioteca de Steam, dar botón derecho a 
 Una vez ahí, elegiremos propiedades, compatibilidad, y MARCAREMOS `Deshabilitar optimizaciones de pantalla completa`.
 
 Todo esto queda a vuestro propio criterio, ya que en algunos PCs se nota que va más fino el juego y en otros no, jugad con ese valor y dejadlo como mejor os funcione.
+
+## Windows 10
+
+¿Qué versión elijo?
+
+Bueno, deciros que las diferentes versiones de Windows traen preinstaladas apps y programas que, generalmente, son mierda. Hasta ahí todo correcto, pero, ¿qué sucede? Que toda esa "mierda" estará funcionando en tu PC en segundo plano.
+
+Es por eso por lo que queremos una versión de Windows cuyas apps, programas y servicios en segundo plano sean los mínimos posibles.
+
+Solo faltaría que estuviéramos jugando un Faceit o un oficial y se nos pusiera a actualizar algunos de esos programas inútiles en 2º plano y nos diera un pantallazo azul.
+
+- Evitad cualquier build de Preview o Insider
+- Evitar ediciones Pro o Home
+- Usad Education (Enterprise) o versiones LTSC (si es posible)
