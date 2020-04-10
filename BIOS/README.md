@@ -1,3 +1,9 @@
+# Índice
+
+- [XMP](#XMP)
+- [Game Boost de Intel](#Game-Boost-de-Intel)
+- [SGX](#SGX)
+
 ## XMP
 
 En la BIOS una de las cosas que queremos hacer es activar el `XMP`, que son perfiles de Overclock para las memorias RAM.
