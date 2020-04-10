@@ -21,6 +21,8 @@ Me voy a fumar un señor puro y voy a meter TeamSpeak aquí, os recomiendo que o
 
 Os sorprendería la cantidad de gente que no tiene cuenta de MyTeamSpeak en pleno 2020.
 
+[Link de descarga](https://www.teamspeak.com/es/downloads/)
+
 ## Drivers de sonido
 
 Aunque os parezca mentira, hace años leí en reddit que un usuario reportaba que al actualizar los drivers de Realtek le subió el rendimiento en CS una pasada, pero en tema de fluidez. Yo no me lo creía, pero lo probé y sí, era verdad (la razón por la que esto sucedía no la recuerdo, para qué os voy a mentir).
