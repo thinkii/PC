@@ -16,7 +16,7 @@ Después, en la misma ventana, iremos a `Reproducción` y elegiremos nuestro dis
 
 Por último iremos a la pestaña `Opciones avanzadas` y elegiremos [esta opción](https://i.gyazo.com/c4942a566a415b92932fe7cfbb462f8a.png) en cuanto a calidad de sonido se refiere. En algunos sitios recomiendan 44100 Hz pero a mí la que mejor me ha ido siempre ha sido esta (48000 Hz), nunca me ha dado ningún problema.
 
-Si no tenéis un PC muy potente dejadlo en 44100 Hz, porque el salto de calidad de 44100 a 48000 es tan mínimo que es imperceptible, y puede provocar una ligera carga extra en vuestra CPU. En el mayor de los casos si queréis 48000 estáis bien, no os preocupéis.
+Si no tenéis un PC muy potente dejadlo en 44100 Hz, porque el salto de calidad de 44100 a 48000 es tan mínimo que es imperceptible, y puede provocar una ligera carga extra en vuestra CPU. En la gran mayoría de los casos si queréis 48000 estáis bien, no os preocupéis.
 
 ## TeamSpeak
 
