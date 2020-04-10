@@ -2,7 +2,7 @@
 
 Si buscas la guía de cómo configurar tu servidor de CS:GO, está [aquí](https://github.com/thinkii/CSGO)
 
-### Changelog
+### Changelog:
 
 > **09/04/2020**
 
