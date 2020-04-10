@@ -1,3 +1,9 @@
+# Índice
+
+- [Nvidia](#Nvidia)
+- [Descarga](#Descarga)
+
+
 ## Nvidia
 
 Aquí hay poco tema, básicamente yo de toda la vida he usado el ["modo rendimiento"](https://i.gyazo.com/e23a8f037c5c1cd463eb30a218f7a788.png) pero desde que metieron el `Low Latency Mode` entiendo que haya gente que use la **configuración avanzada de 3D**.
