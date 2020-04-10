@@ -4,7 +4,7 @@ Este repositorio está orientado a la optimización del PC para CS:GO especialme
 
 - Añadidos [Ratón](https://github.com/thinkii/PC/tree/master/Rat%C3%B3n), [Misc](https://github.com/thinkii/PC/tree/master/Misc) y [Sonido](https://github.com/thinkii/PC/tree/master/Sonido).
 
-- Añadido [TeamSpeak](https://github.com/thinkii/PC/tree/master/Sonido#TeamSpeak) en [Sonido](https://github.com/thinkii/PC/tree/master/Sonido) y Planes de energía en [Misc](https://github.com/thinkii/PC/tree/master/Misc)
+- Añadido [TeamSpeak](https://github.com/thinkii/PC/tree/master/Sonido#TeamSpeak) en [Sonido](https://github.com/thinkii/PC/tree/master/Sonido) y [Planes de energía](https://github.com/thinkii/PC/tree/master/Misc#Plan-de-energ%C3%ADa) en [Misc](https://github.com/thinkii/PC/tree/master/Misc)
 
 - Añadido [Gráficos](https://github.com/thinkii/PC/tree/master/Gr%C3%A1ficos) para ajustes de Nvidia principalmente (ya que no uso AMDEP)
 
