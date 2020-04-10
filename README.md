@@ -28,4 +28,6 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 
 - Actualizado [BIOS](https://github.com/thinkii/PC/tree/master/BIOS) con [SGX](https://github.com/thinkii/PC/tree/master/BIOS#sgx)
 
+- Actualizado [Sonido](https://github.com/thinkii/PC/blob/master/Sonido/README.md) con [Actualizar drivers de Realtek](https://github.com/thinkii/PC/blob/master/Sonido/README.md#Actualizar-Realtek)
+
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
