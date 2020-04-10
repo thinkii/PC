@@ -1,4 +1,4 @@
-Este repositorio está orientado a la optimización del PC para CS:GO especialmente, aunque hay cosillas que os vendrán bien en líneas generales. VALORANT guiño, guiño, codo, codo.
+# Este repositorio está orientado a la optimización del PC para CS:GO especialmente, aunque hay cosillas que os vendrán bien en líneas generales. VALORANT guiño, guiño, codo, codo.
 
 Si buscas la guía de cómo configurar tu servidor de CS:GO, está [aquí](https://github.com/thinkii/CSGO)
 
