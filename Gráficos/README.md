@@ -3,6 +3,7 @@
 - [Nvidia](#Nvidia)
 - [GeForce Experience](#GeForce-Experience)
 - [Descarga](#Descarga)
+- [VibranceGUI](#VibranceGUI)
 
 
 ## Nvidia
@@ -20,3 +21,11 @@ Una vez dicho todo esto, **evitad instalar GeForce Experience**, en serio, evita
 ## Descarga
 
 Podéis descargar los últimos drivers desde la [página oficial](https://www.nvidia.com/Download/index.aspx)
+
+## VibranceGUI
+
+VibranceGUI es una aplicación de código abierto que pone el digital vibrance a 100% solo cuando abres el programa que tú añadido. Con eso lo que conseguimos es que en el escritorio no se vea todo tan saturado pero el juego siga viéndose igual de colorido que siempre.
+
+Con añadir el proceso al programa ya vale, luego hay que minimizarlo, no cerrarlo, y marcarle el "autostart"
+
+[Página oficial](https://vibrancegui.com/)
