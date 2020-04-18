@@ -30,4 +30,8 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 
 - Actualizado [Sonido](https://github.com/thinkii/PC/blob/master/Sonido/README.md) con [Actualizar drivers de Realtek](https://github.com/thinkii/PC/blob/master/Sonido/README.md#Actualizar-Realtek)
 
+> **19/04/2020**
+
+- Añadido [VibranceGUI](https://github.com/thinkii/PC/blob/master/Gr%C3%A1ficos/README.md#VibranceGUI)
+
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
