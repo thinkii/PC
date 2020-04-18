@@ -8,7 +8,7 @@
 - [Optimizaciones de pantalla completa](#Optimizaciones-de-pantalla-completa)
 - [¿Qué versión de Windows 10 elijo?](#Windows-10)
 - [Programador de tareas y Telemetría](#Programador-de-tareas-y-Telemetría)
-- [Modo juego] (#Modo juego)
+- [Modo juego](#Modo juego)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
