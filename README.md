@@ -33,5 +33,6 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 > **19/04/2020**
 
 - Añadido [VibranceGUI](https://github.com/thinkii/PC/blob/master/Gr%C3%A1ficos/README.md#VibranceGUI)
+- Añadido [Modo juego](https://github.com/thinkii/PC/blob/master/Misc/README.md#Modo-juego)
 
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
