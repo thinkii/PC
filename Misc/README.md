@@ -8,6 +8,7 @@
 - [Optimizaciones de pantalla completa](#Optimizaciones-de-pantalla-completa)
 - [¿Qué versión de Windows 10 elijo?](#Windows-10)
 - [Programador de tareas y Telemetría](#Programador-de-tareas-y-Telemetría)
+- [Modo juego](#Modo juego)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
@@ -105,3 +106,18 @@ Ejecútalo para desactivar las cosillas de telemetría (si lo has hecho con el s
 
 1. Copia el archivo en `C:\Windows` y ejecuta CMD como administrador.
 2. SCHTASKS /Create /F /RU "SYSTEM" /RL HIGHEST /SC ONSTART /TN BlockW10 /TR "cmd /c %windir%\antitelemetry.cmd"
+
+
+## Modo juego
+
+El [modo juego](https://beta.support.xbox.com/help/games-apps/game-setup-and-play/use-game-mode-gaming-on-pc) permite al sistema priorizar los recursos de CPU y GPU al juego que se está ejecutando en primer plano, y su objetivo es garantizar un aumento de fps, o por lo menos picos más altos, junto a un aumento de la media de fps y su consistencia. En las últimas versiones de Windows, comenzando con la Build 1809 y 1903, el Modo juego ya no prioriza la GPU/CPU. Esto significa que los procesos en segundo plano reciben más recursos en caso de que otras aplicaciones (OBS por ejemplo) requieran de muchos, en este caso debido al encoding. 
+
+- Activar el `Modo juego` evita que Windows Update actualice drivers y desactiva las notificaciones de actualizaciones que no sean muy importantes.
+
+- Fuerza (si está activado) un uso mínimo del 100% de la CPU en ordenadores de sobremesa (en portátiles no), para ayudar a reducir las fluctuaciones que pueden convertirse en problemas de rendimiento. Hace exactamente lo mismo que ir a la administración de potencia del procesador y poner el estado mínimo del procesador en 100% (plan de energía de `Alto rendimiento`)
+
+- El modo juego no viene activado por defecto, esto se basa en la versión que utilicéis de Windows. De la 1809 en adelante el juego puede decidir si activar ese `Modo juego` o no.
+
+- El `Modo juego` se comporta de manera diferente en portátiles para evitar problemas de sobrecalentamiento.
+
+Dicho todo esto, en versiones superiores a 1903 el `Modo juego` NO afecta negativamente al rendimiento de los juegos.
