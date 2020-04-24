@@ -131,7 +131,8 @@ Tener un archivo `hosts` "inteligente" te ayudará a la hora de bloquear malware
 
 Por ejemplo, para anular las peticiones de algunos servidores doubleclick.net añadir estas líneas al fichero `hosts` lo hará.
 
-```# block doubleClick's servers
+```
+# block doubleClick's servers
 0.0.0.0 ad.ae.doubleclick.net
 0.0.0.0 ad.ar.doubleclick.net
 0.0.0.0 ad.at.doubleclick.net
