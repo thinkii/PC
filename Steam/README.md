@@ -27,7 +27,9 @@ En Steam lo primero que hago nada más formatear es ir a parámetros y dejar tod
 
 ## Biblioteca
 
-- Las [dos opciones de abajo](https://i.gyazo.com/4a246c87cbb6fa21c93868fd6339d6b3.png) tienen que ir en `Desactivación forzosa`
+- Las dos opciones de abajo tienen que ir en `Desactivación forzosa`
+
+![alt text](https://i.gyazo.com/4a246c87cbb6fa21c93868fd6339d6b3.png "Desactivación forzosa")
 
 - [Tampoco queremos que descargue actualizaciones de otros juegos en segundo plano](https://i.gyazo.com/d8d28d9226218b9a41ee444c0907ff2e.png), aunque esto juraría que viene por defecto bien.
 
