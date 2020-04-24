@@ -8,7 +8,11 @@
 
 ## Nvidia
 
-Aquí hay poco tema, básicamente yo de toda la vida he usado el ["modo rendimiento"](https://i.gyazo.com/e23a8f037c5c1cd463eb30a218f7a788.png) pero desde que metieron el `Low Latency Mode` entiendo que haya gente que use la **configuración avanzada de 3D**.
+Aquí hay poco tema, básicamente yo de toda la vida he usado el modo rendimiento.
+
+![alt text](https://i.gyazo.com/e23a8f037c5c1cd463eb30a218f7a788.png "Modo rendimiento de tarjeta gráfica")
+
+Pero desde que metieron el `Low Latency Mode` entiendo que haya gente que use la **configuración avanzada de 3D**.
 
 Dentro de la **configuración avanzada de 3D** lo único que os puedo decir que toquéis es el `Low Latency Mode` a Ultra y que lo testeéis, ya que no a todo el mundo le va bien y que el `Modo de control de energía` lo pongáis al máximo.
 
