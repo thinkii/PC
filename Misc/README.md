@@ -138,4 +138,12 @@ Por ejemplo, para anular las peticiones de algunos servidores doubleclick.net a�
 0.0.0.0 ad.at.doubleclick.net
 0.0.0.0 ad.au.doubleclick.net
 0.0.0.0 ad.be.doubleclick.net
-# etc...```
+# etc... 
+```
+Para editar este archivo en Windows vamos a la siguiente ruta `\system32\drivers\etc` y dentro tendremos el archivo hosts.
+
+Descargamos la última versión de [aquí](https://github.com/StevenBlack/hosts/archive/master.zip). 
+
+Dentro de la carpeta buscamos el archivo `hosts` y lo sustituimos por el de la ruta que he dejado más arriba. El resto del contenido de la carpeta lo podéis borrar.
+
+Con esto bloquearemos mucha mierda, como he dicho antes, y junto a una extensión como `uBlock Origin` no veréis ni un solo anuncio.
