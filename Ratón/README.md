@@ -1,7 +1,7 @@
 # Índice
 - [Sensibilidad](#Sensibilidad)
-- [Accel v1](#Accel-v1)
-- [Accel v2](#Accel-v2)
+   - [Accel v1](#Accel-v1)
+   - [Accel v2](#Accel-v2)
 - [DPI](#DPI)
 - [Hz del ratón](#Hz-del-ratón)
 
