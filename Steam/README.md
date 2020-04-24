@@ -31,3 +31,7 @@ Dentro de las más útiles yo metería `-novid`, `-high` (solo si tu PC es bueno
 Mención especial a `+clientport XXXXX` que nos salva de muchos problemas especialmente en Faceit. 
 
 Su funcionamiento es sencillo, si la IP a la que te vas a conectar es esta por ejemplo: XX.XXX.XXX.XX:20020 pondremos en opciones de lanzamiento `+clientport 20020`, pero solo si entramos al servidor previamente y tenemos loss o mucho ping por bad routing.
+
+## Precarga de sombreadores
+
+Es bastante posible que cuando salga Source 2 (lo que implica la llegada de Vulkan también) queramos tener activado este ajuste. De momento lo dejaremos desmarcado.
