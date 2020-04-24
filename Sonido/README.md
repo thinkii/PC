@@ -28,7 +28,9 @@ Os sorprendería la cantidad de gente que no tiene cuenta de MyTeamSpeak en plen
 
 PD: Ya de paso os dejo un código de insignia que no caduca, como premio porque os hayáis creado la cuenta jaja `RWGE2NURJZ`
 
-Se canjea [aquí](https://i.gyazo.com/af1bec68a8b18aa990312f54a233c823.png)
+Se canjea aquí
+
+![alt text](https://i.gyazo.com/af1bec68a8b18aa990312f54a233c823.png "Captura para canjear insignia en TeamSpeak 3")
 
 ## Drivers de sonido
 
