@@ -38,5 +38,6 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 > **25/04/2020**
 
 - Añadido [Archivo hosts](https://github.com/thinkii/PC/blob/master/Misc/README.md#Archivo-hosts)
+- Mejorado el contenido de [Ratón](https://github.com/thinkii/PC/tree/master/Rat%C3%B3n)
 
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
