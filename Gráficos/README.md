@@ -1,8 +1,8 @@
 # Índice
 
 - [Nvidia](#Nvidia)
-- [GeForce Experience](#GeForce-Experience)
-- [Descarga](#Descarga)
+   - [GeForce Experience](#GeForce-Experience)
+   - [Descarga](#Descarga)
 - [VibranceGUI](#VibranceGUI)
 
 
