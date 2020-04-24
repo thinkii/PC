@@ -31,7 +31,9 @@ En Steam lo primero que hago nada más formatear es ir a parámetros y dejar tod
 
 ![alt text](https://i.gyazo.com/4a246c87cbb6fa21c93868fd6339d6b3.png "Desactivación forzosa")
 
-- [Tampoco queremos que descargue actualizaciones de otros juegos en segundo plano](https://i.gyazo.com/d8d28d9226218b9a41ee444c0907ff2e.png), aunque esto juraría que viene por defecto bien.
+- Tampoco queremos que descargue actualizaciones de otros juegos en segundo plano, aunque esto juraría que viene por defecto bien.
+
+![alt text](https://i.gyazo.com/d8d28d9226218b9a41ee444c0907ff2e.png "Descargas en segundo plano")
 
 ## Opciones de lanzamiento
 
