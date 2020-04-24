@@ -9,6 +9,7 @@
 - [¿Qué versión de Windows 10 elijo?](#Windows-10)
 - [Programador de tareas y Telemetría](#Programador-de-tareas-y-Telemetría)
 - [Modo juego](#Modo-juego)
+- [Archivo hosts](#Archivo-hosts)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
@@ -121,3 +122,19 @@ El [modo juego](https://beta.support.xbox.com/help/games-apps/game-setup-and-pla
 - El `Modo juego` se comporta de manera diferente en portátiles para evitar problemas de sobrecalentamiento.
 
 Dicho todo esto, en versiones superiores a 1903 el `Modo juego` NO afecta negativamente al rendimiento de los juegos.
+
+## Archivo hosts
+
+El archivo hosts es el archivo que usa el sistema operativo para asignar los nombres del equipo o host en direcciones IP. Es el DNS local de la máquina donde lo estás editando. Esta es la forma más común que usa el Sistema Operativo Windows para resolver los nombres de dominio (DNS).
+
+Tener un archivo `hosts` "inteligente" te ayudará a la hora de bloquear malware, adware y toda esa carroña.
+
+Por ejemplo, para anular las peticiones de algunos servidores doubleclick.net añadir estas líneas al fichero `hosts` lo hará.
+
+```# block doubleClick's servers
+0.0.0.0 ad.ae.doubleclick.net
+0.0.0.0 ad.ar.doubleclick.net
+0.0.0.0 ad.at.doubleclick.net
+0.0.0.0 ad.au.doubleclick.net
+0.0.0.0 ad.be.doubleclick.net
+# etc...```
