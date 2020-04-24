@@ -9,13 +9,21 @@ En Steam lo primero que hago nada más formatear es ir a parámetros y dejar tod
 
 ## Parámetros
 
-- [Interfaz](https://i.gyazo.com/dc7aa0be04c8652fa13d3cff78551a14.png) 
+- Interfaz
 
-- [Preferencias de barra de tareas](https://i.gyazo.com/07331db8b76f25dfa1324cad84f4fa6c.png)
+![alt text](https://i.gyazo.com/dc7aa0be04c8652fa13d3cff78551a14.png "Interfaz")
 
-- [Chat-Lista de amigos](https://i.gyazo.com/340b77465a62dc38cb8b44aac5c77352.png)
+- Preferencias de barra de tareas
 
-- [Chat-Notificaciones](https://i.gyazo.com/ec3f044db1e7da48e85184c66a51644b.png)
+![alt text](https://i.gyazo.com/07331db8b76f25dfa1324cad84f4fa6c.png "Preferencias de barra de tareas")
+
+- Chat-Lista de amigos
+
+![alt text](https://i.gyazo.com/340b77465a62dc38cb8b44aac5c77352.png "Chat-Lista de amigos")
+
+- Chat-Notificaciones
+
+![alt text](https://i.gyazo.com/ec3f044db1e7da48e85184c66a51644b.png "Chat-Notificaciones")
 
 ## Biblioteca
 
