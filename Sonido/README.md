@@ -2,7 +2,7 @@
 
 - [TeamSpeak](#TeamSpeak)
 - [Drivers de sonido](#Drivers-de-sonido)
- - [Actualizar Realtek](#Actualizar-Realtek)
+   - [Actualizar Realtek](#Actualizar-Realtek)
 
 ## Primeros pasos en Windows recién instalado
 
