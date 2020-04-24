@@ -55,4 +55,6 @@ Pienso que el equilibrio está en 800, 400 es poco y a 800 se nota algo de mejor
 
 ## Hz del ratón
 
+La tasa de sondeo de un ratón es la frecuencia con que informa su posición a un ordenador. Esta velocidad se mide en Hz (hercios). Si un ratón tiene una velocidad de sondeo de 125 Hz, informa su posición al ordenador 125 veces por segundo (o cada 8 milisegundos)
+
 Recomiendo tenerlos a 1000 o como muy poco 500, yo si lo tengo a menos noto que no va fluido del todo.
