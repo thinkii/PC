@@ -2,7 +2,7 @@
 
 - [Parámetros](#Parámetros)
 - [Biblioteca](#Biblioteca)
-- [Opciones de lanzamiento](#Opciones-de-lanzamiento)
+   - [Opciones de lanzamiento](#Opciones-de-lanzamiento)
 - [Precarga de sombreadores](#Precarga-de-sombreadores)
 
 En Steam lo primero que hago nada más formatear es ir a parámetros y dejar todo así
