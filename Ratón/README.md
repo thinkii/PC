@@ -27,6 +27,7 @@ En inicio escribimos **regedit** y lo ejecutamos como administrador. Vamos a `HK
 
 Lo dejamos tal que así
 
+```
     SmoothMouseXCurve
 
     00,00,00,00,00,00,00,00
@@ -43,6 +44,8 @@ Lo dejamos tal que así
     cd,4c,05,00,00,00,00,00
     a0,99,0a,00,00,00,00,00
     38,33,15,00,00,00,00,00
+    
+```
 
 ## DPI
 
