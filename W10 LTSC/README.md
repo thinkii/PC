@@ -23,9 +23,8 @@ Aceptaremos los permisos pulsando en [“Más información”](https://i.gyazo.c
 
 Click en “Ejecutar de todas formas”.
 
-Una vez se termine de instalar abrimos un navegador, yo utilizo internet explorer que es el que trae el sistema instalado, y abrimos la siguiente dirección web:
+Una vez se termine de instalar abrimos un navegador, yo utilizo internet explorer que es el que trae el sistema instalado, y abrimos la [siguiente dirección web](https://www.microsoft.com/es-es/p/xbox-identity-provider/9wzdncrd1hkw?SilentAuth=1&wa=wsignin1.0#activetab=pivot:overviewtab)
 
-https://www.microsoft.com/es-es/p/xbox-identity-provider/9wzdncrd1hkw?SilentAuth=1&wa=wsignin1.0#activetab=pivot:overviewtab
 
 Esta app es necesaria para el correcto funcionamiento de la tienda con los servicios de XBOX, es una pasarela, no es una app gráfica, recomiendo mucho instalarla. Aunque no usemos XBOX nunca.
 
