@@ -48,3 +48,4 @@ Su funcionamiento es sencillo, si la IP a la que te vas a conectar es esta por e
 ## Precarga de sombreadores
 
 Es bastante posible que cuando salga Source 2 (lo que implica la llegada de Vulkan también) queramos tener activado este ajuste. De momento lo dejaremos desmarcado.
+
