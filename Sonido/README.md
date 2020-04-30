@@ -49,3 +49,4 @@ Así que buscad actualizaciones regularmente.
 Para actualizar Realtek vamos a [esta página](https://www.tenforums.com/sound-audio/135259-latest-realtek-hd-audio-driver-version-2-a.html) que recoge los últimos drivers (son jodidos de encontrar, creedme), lo descargáis de la derecha, dándole a descargar. Una vez descargado, guardad el .zip en una carpeta vacía en el escritorio por ejemplo, y descomprimidla.
 
 Luego seguid los pasos de [este tutorial](https://www.tenforums.com/tutorials/66346-install-cab-file-windows-10-a.html#post873775). Escribís en inicio `Administrador de dispositivos` y buscáis `Controladora de sonido y vídeo y dispositivos de juego` y el resto aunque no sepáis inglés lo vais a entender perfectamente en el tutorial.
+
