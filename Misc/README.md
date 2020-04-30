@@ -147,3 +147,4 @@ Descargamos la última versión de [aquí](https://github.com/StevenBlack/hosts/
 Dentro de la carpeta buscamos el archivo `hosts` y lo sustituimos por el de la ruta que he dejado más arriba. El resto del contenido de la carpeta lo podéis borrar.
 
 Con esto bloquearemos mucha mierda, como he dicho antes, y junto a una extensión como `uBlock Origin` no veréis ni un solo anuncio.
+
