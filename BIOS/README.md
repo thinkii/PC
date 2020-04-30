@@ -18,3 +18,4 @@ También es interesante dejarlo activado si podéis (en caso de que no notéis n
 ## SGX
 
 SGX o Intel Software Guard Extensions. Esta opción la queremos desactivada (si es que la encontráis ahí dentro jaja), no hay ningún beneficio en usarla y [afecta ligeramente](https://arxiv.org/abs/1902.03256) al uso de la CPU (en caso de usarla)
+
