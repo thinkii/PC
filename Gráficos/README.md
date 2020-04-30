@@ -33,3 +33,4 @@ VibranceGUI es una aplicación de código abierto que pone el digital vibrance a
 Con añadir el proceso al programa ya vale, luego hay que minimizarlo, no cerrarlo, y marcarle el "autostart"
 
 [Página oficial](https://vibrancegui.com/)
+
