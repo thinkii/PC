@@ -36,4 +36,3 @@ Para activar la galería de imágenes nativa de Windows [descargamos el siguient
 
 Ahora entramos en Configuración > aplicaciones > aplicaciones predeterminadas.
 En la opción “Visualizador de fotos” cambiamos a “Visualizador de fotos de windows”.
-
