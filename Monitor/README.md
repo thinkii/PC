@@ -12,3 +12,4 @@ De esta manera nos aseguramos de que el monitor funciona a los Hz correctos, Win
 ## BenQ
 
 Si tienes una BenQ lo único que te recomendaría que tocaras como te digo yo es la `Nitidez`, si tienes los menús en inglés será `Sharpness`. Ese ajuste hay que tenerlo al máximo siempre, mejora mucho la visibilidad.
+
