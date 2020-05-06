@@ -44,5 +44,8 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 
 - Añadidas breves descripciones del contenido de las carpetas a la derecha.
 
-# Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
+> **06/05/2020**
 
+- Añadido [G-Sync](https://github.com/thinkii/PC/blob/master/Gr%C3%A1ficos/README.md#G-Sync) en `Gráficos`
+
+# Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
