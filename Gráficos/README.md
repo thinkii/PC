@@ -4,6 +4,7 @@
    - [GeForce Experience](#GeForce-Experience)
    - [Descarga](#Descarga)
 - [VibranceGUI](#VibranceGUI)
+- [G-Sync](#G-Sync)
 
 
 ## Nvidia
@@ -34,3 +35,20 @@ Con añadir el proceso al programa ya vale, luego hay que minimizarlo, no cerrar
 
 [Página oficial](https://vibrancegui.com/)
 
+## G-Sync
+
+Si quieres informarte sobre qué es `G-Sync` [aquí puedes](https://www.nvidia.com/es-la/drivers/how-does-g-sync-work/).
+
+Yo voy directo a la guía, para leer mi opinión bajad hasta el final.
+
+Para tener `G-Sync` funcionando lo primero que tenemos que hacer es activarlo desde el `Panel de Nvidia`, a continuación en `Controlar la configuración 3D` activamos la `Sincronización vertical`.
+
+Dentro de CS:GO desactivamos `Sincronización vertical`. Limita los fps con `fps_max` dependiendo de tus hz, si usas 144hz los fps deberás limitarlos por debajo, a 140, y con 240 a 235, siempre a 4-5 fps por debajo de la tasa de refresco. El objetivo del cap de fps es que al estar siempre por debajo de la tasa de refresco vais a conseguir que el `G-Sync` esté siempre activado.
+
+Con esto reducirás el micro stuttering y lo sentirás mejor.
+
+Mi opinión es que todo esto, salvo casos específicos de que tu PC no llegue a más fps y tengas 144hz, NO es válido, y me explico.
+
+Esto puede llegar a añadir 1-2ms de input lag, ¿te es worth?, a mí por ejemplo no, mi PC tira perfectamente a 300fps y lo que quiero es tener el input lag al mínimo.
+
+Salvo que estés en esa minoría que necesite activarlo recomiendo NO hacer nada de esto.
