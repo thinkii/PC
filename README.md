@@ -54,6 +54,8 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 
 - Añadido [Fix de la calidad de la imagen de fondo de escritorio](https://github.com/thinkii/PC/blob/master/Misc/README.md#Calidad-del-fondo-de-escritorio) en `Gráficos`
 
+- Actualizado [Plan de energía](https://github.com/thinkii/PC/tree/master/Misc#Plan-de-energ%C3%ADa) en `Misc` con un plan de energía nuevo, más potente y mejorado.
+
 Ahí va incluido el tutorial del Modo MSI, lo que reducirá notablemente el input lag.
 
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
