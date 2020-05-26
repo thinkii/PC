@@ -50,6 +50,18 @@ Con todo esto el input lag habrá desaparecido.
 
 ![alt text](https://media1.tenor.com/images/556e8f91e9b3440c007a64b93009da1d/tenor.gif "QUE TE JODAN!!!")
 
+## Configuración de vídeo
+
+En `Ajustar la configuración de imagen con vista previa` aka la primera opción de todas, marcaremos `Utilice la configuración avanzada de imagen 3D`.
+
+Ahora vamos a `Controlar la configuración 3D` y dejaremos todo tal que así (si no os aparece alguna opción que a mí sí obviadla, no hay problema).
+
+![alt text](https://i.gyazo.com/41793e89c4337bbcd01f7a8775f1238f.png "1")
+
+![alt text](https://i.gyazo.com/037fb7356fb17269e2a149fb6bf5002f.png "2")
+
+![alt text](https://i.gyazo.com/af7e215c25be79ffcbcca52bb91b3b48.png "3")
+
 ## VibranceGUI
 
 VibranceGUI es una aplicación de código abierto que pone el digital vibrance a 100% solo cuando abres el programa que tú añadido. Con eso lo que conseguimos es que en el escritorio no se vea todo tan saturado pero el juego siga viéndose igual de colorido que siempre.
