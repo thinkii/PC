@@ -24,6 +24,8 @@ Si tenéis gráficas muy antigüas no sigáis este tutorial, o si lo hacéis yo 
 
 Os recomiendo hacer un punto de restauración por si acaso algo se rompe, en mi caso no ocurrió nada y fui como un loco, pero bueno, creo que es conveniente avisarlo.
 
+**También recomiendo desinstalar los drivers actuales con [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) (Thank Mr Laks).
+
 1. Nos bajamos y descargamos [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 2. Una vez tenemos abierto el programa comprobamos que la casilla `Install the best driver for my hardware` está marcada (viene por defecto, pero por si aca) y le damos a Next.
 3. Seleccionamos `minimum` en la parte inferior derecha, de nuevo comprobamos que todas las casillas menos la primera (que no se puede desmarcar) están DESMARCADAS.
