@@ -10,6 +10,7 @@
 - [Programador de tareas y Telemetría](#Programador-de-tareas-y-Telemetría)
 - [Modo juego](#Modo-juego)
 - [Archivo hosts](#Archivo-hosts)
+- [Calidad del fondo de escritorio](#Calidad-del-fondo-de-escritorio)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
@@ -148,3 +149,10 @@ Dentro de la carpeta buscamos el archivo `hosts` y lo sustituimos por el de la r
 
 Con esto bloquearemos mucha mierda, como he dicho antes, y junto a una extensión como `uBlock Origin` no veréis ni un solo anuncio.
 
+## Calidad del fondo de escritorio
+
+Por defecto Windows 10 capa la calidad de la imagen de fondo de escritorio y ninguna se ve bien, se ven muchos píxeles.
+
+Con este fix eso se solucionará, basta con ejecutarlo y cambiar la imagen de fondo de escritorio por otra (creo que la misma vale, pero si no cambiadla por otra y volved a la original)
+
+[Descarga aquí](https://drive.google.com/open?id=1sA7iyWHrUchUcJXsCtWCU69yAtPI4eyu)
