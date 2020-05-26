@@ -3,22 +3,21 @@
 - [Nvidia](#Nvidia)
    - [GeForce Experience](#GeForce-Experience)
    - [Instalación de drivers alternativa](#Instalación-de-drivers-alternativa)
-   - [Configuración de vídeo](#Configuración-de-vídeo)
 - [VibranceGUI](#VibranceGUI)
 - [G-Sync](#G-Sync)
 
 
 ## Nvidia
 
-Aquí hay poco tema, básicamente yo de toda la vida he usado el modo rendimiento.
+En `Ajustar la configuración de imagen con vista previa` aka la primera opción de todas, marcaremos `Utilice la configuración avanzada de imagen 3D`.
 
-![alt text](https://i.gyazo.com/e23a8f037c5c1cd463eb30a218f7a788.png "Modo rendimiento de tarjeta gráfica")
+Ahora vamos a `Controlar la configuración 3D` y dejaremos todo tal que así (si no os aparece alguna opción que a mí sí obviadla, no hay problema).
 
-Pero desde que metieron el `Low Latency Mode` entiendo que haya gente que use la **configuración avanzada de 3D**.
+![alt text](https://i.gyazo.com/41793e89c4337bbcd01f7a8775f1238f.png "1")
 
-Dentro de la **configuración avanzada de 3D** lo único que os puedo decir que toquéis es el `Low Latency Mode` a Ultra y que lo testeéis, ya que no a todo el mundo le va bien y que el `Modo de control de energía` lo pongáis al máximo.
+![alt text](https://i.gyazo.com/037fb7356fb17269e2a149fb6bf5002f.png "2")
 
-Añadir también que no soy fan del G-Sync, no me gusta, pero sois libres de hacer lo que queráis.
+![alt text](https://i.gyazo.com/af7e215c25be79ffcbcca52bb91b3b48.png "3")
 
 ## GeForce Experience
 
@@ -50,18 +49,6 @@ Las tarjetas gráficas normalmente funcionan (algunas vienen por defecto en MSI)
 Con todo esto el input lag habrá desaparecido.
 
 ![alt text](https://media1.tenor.com/images/556e8f91e9b3440c007a64b93009da1d/tenor.gif "QUE TE JODAN!!!")
-
-## Configuración de vídeo
-
-En `Ajustar la configuración de imagen con vista previa` aka la primera opción de todas, marcaremos `Utilice la configuración avanzada de imagen 3D`.
-
-Ahora vamos a `Controlar la configuración 3D` y dejaremos todo tal que así (si no os aparece alguna opción que a mí sí obviadla, no hay problema).
-
-![alt text](https://i.gyazo.com/41793e89c4337bbcd01f7a8775f1238f.png "1")
-
-![alt text](https://i.gyazo.com/037fb7356fb17269e2a149fb6bf5002f.png "2")
-
-![alt text](https://i.gyazo.com/af7e215c25be79ffcbcca52bb91b3b48.png "3")
 
 ## VibranceGUI
 
