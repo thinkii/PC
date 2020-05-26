@@ -26,7 +26,7 @@ Os recomiendo hacer un punto de restauración por si acaso algo se rompe, en mi 
 
 1. Nos bajamos y descargamos [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 2. Una vez tenemos abierto el programa comprobamos que la casilla `Install the best driver for my hardware` está marcada (viene por defecto, pero por si aca) y le damos a Next.
-3. Seleccionamos `minimum` en la parte inferior derecha, de nuevo comprobamos que todas las casillas menos la primera (que no se puede desmarcar) están marcadas.
+3. Seleccionamos `minimum` en la parte inferior derecha, de nuevo comprobamos que todas las casillas menos la primera (que no se puede desmarcar) están DESMARCADAS.
 
 Aquí hago un pequeño inciso antes de seguir con la guía, ya que quizá queréis usar `Shadowplay`, aunque yo no lo recomiendo, puesto que añade telemetría al sistema, tenéis que marcar la casilla. Con eso ya debería funcionar, de todos modos, si necesitáis más características aseguraos de que sean las mínimas posibles, por favor.
 
