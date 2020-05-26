@@ -12,7 +12,9 @@
 
 ## GeForce Experience
 
-Una vez dicho todo esto, **evitad instalar GeForce Experience**, en serio, evitadlo a toda costa porque añade input lag. Yo llevo años sin eso (aunque entiendo que haya gente que por temas de Praccs ya que no hay PlaysTV lo quiera usar, bueno, es inevitable) y noto que va finito, que oye, igual es placebo, pero he leído de mucha gente que ha notado input lag y yo no sé si será que iba condicionado ya o no, pero también lo notaba distinto en mi antigua 970.
+**Evitad instalar GeForce Experience**, en serio, evitadlo a toda costa porque añade input lag. Yo llevo años sin eso (aunque entiendo que haya gente que por temas de Praccs ya que no hay PlaysTV lo quiera usar, bueno, es inevitable) y noto que va finito, que oye, igual es placebo, pero he leído de mucha gente que ha notado input lag y yo no sé si será que iba condicionado ya o no, pero también lo notaba distinto en mi antigua 970.
+
+Si después de ese tocho os habéis decidido a quitarlo, justo debajo tenéis una pequeña guía para hacerlo =D
 
 ## Instalación de drivers alternativa
 
