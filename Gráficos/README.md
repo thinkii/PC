@@ -3,6 +3,7 @@
 - [Nvidia](#Nvidia)
    - [GeForce Experience](#GeForce-Experience)
    - [Instalación de drivers alternativa](#Instalación-de-drivers-alternativa)
+   - [Configuración de vídeo](#Configuración-de-vídeo)
 - [VibranceGUI](#VibranceGUI)
 - [G-Sync](#G-Sync)
 
