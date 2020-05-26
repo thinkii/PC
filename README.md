@@ -52,6 +52,8 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 
 - Añadido [Instalación de drivers alternativa](https://github.com/thinkii/PC/blob/master/Gr%C3%A1ficos/README.md#Instalaci%C3%B3n-de-drivers-alternativa) en `Gráficos`
 
+- Añadido [Fix de la calidad de la imagen de fondo de escritorio](https://github.com/thinkii/PC/blob/master/Misc/README.md#Calidad-del-fondo-de-escritorio) en `Gráficos`
+
 Ahí va incluido el tutorial del Modo MSI, lo que reducirá notablemente el input lag.
 
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
