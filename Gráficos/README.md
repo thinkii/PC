@@ -2,7 +2,7 @@
 
 - [Nvidia](#Nvidia)
    - [GeForce Experience](#GeForce-Experience)
-   - [Descarga](#Descarga)
+   - [Instalación de drivers alternativa](#Instalación-de-drivers-alternativa)
 - [VibranceGUI](#VibranceGUI)
 - [G-Sync](#G-Sync)
 
@@ -23,9 +23,32 @@ Añadir también que no soy fan del G-Sync, no me gusta, pero sois libres de hac
 
 Una vez dicho todo esto, **evitad instalar GeForce Experience**, en serio, evitadlo a toda costa porque añade input lag. Yo llevo años sin eso (aunque entiendo que haya gente que por temas de Praccs ya que no hay PlaysTV lo quiera usar, bueno, es inevitable) y noto que va finito, que oye, igual es placebo, pero he leído de mucha gente que ha notado input lag y yo no sé si será que iba condicionado ya o no, pero también lo notaba distinto en mi antigua 970.
 
-## Descarga
+## Instalación de drivers alternativa
 
-Podéis descargar los últimos drivers desde la [página oficial](https://www.nvidia.com/Download/index.aspx)
+Para este método (que os prometo que elimina input lag, 100% que no es placebo) vamos a usar un programa llamado [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) para quitarle toda la "basura" a los drivers, como telemetría y características que no vamos a necesitar o están obsoletas.
+
+Si tenéis gráficas muy antigüas no sigáis este tutorial, o si lo hacéis yo no me hago responsable, bueno, ni aunque vuestra gráfica sea modelo nuevo xD
+
+Os recomiendo hacer un punto de restauración por si acaso algo se rompe, en mi caso no ocurrió nada y fui como un loco, pero bueno, creo que es conveniente avisarlo.
+
+1. Nos bajamos y descargamos [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+2. Una vez tenemos abierto el programa comprobamos que la casilla `Install the best driver for my hardware` está marcada (viene por defecto, pero por si aca) y le damos a Next.
+3. Seleccionamos `minimum` en la parte inferior derecha, de nuevo comprobamos que todas las casillas menos la primera (que no se puede desmarcar) están marcadas.
+
+Aquí hago un pequeño inciso antes de seguir con la guía, ya que quizá queréis usar `Shadowplay`, aunque yo no lo recomiendo, puesto que añade telemetría al sistema, tenéis que marcar la casilla. Con eso ya debería funcionar, de todos modos, si necesitáis más características aseguraos de que sean las mínimas posibles, por favor.
+
+Repito de nuevo que yo no instalaría `Shadowplay` por muy imprescindible que fuera para mí. Si finalmente decidís instalarlo usad este [script](https://github.com/Moyster/BaiGfe) para quitar la telemetría.
+
+4. Esperamos a que se descargue el driver.
+5. Marcamos todas las casillas EXCEPTO `Unattended Express Installation`. Al marcar `Show Expert Tweaks` marcaremos también las dos nuevas opciones que aparecen `Disable NVIDIA HD Audio device sleep timer` y `Enable Message Signaled Interrupts`. Si seguís leyendo un poco más abajo encontraréis más info acerca del modo MSI.
+6. Ahora se abrirá la instalación clásica (la que todos conocéis, vaya) de Nvidia.
+7. Me apetecía poner el 7, ¿casualidad?
+
+Las tarjetas gráficas normalmente funcionan (algunas vienen por defecto en MSI) en INT, al cambiarlo a MSI lo que hacemos es mejorar el tiempo de respuesta entre la CPU y la GPU. Esto significa que todo va a ser más "instant".
+
+Con todo esto el input lag habrá desaparecido.
+
+![alt text](https://media1.tenor.com/images/556e8f91e9b3440c007a64b93009da1d/tenor.gif "QUE TE JODAN!!!")
 
 ## VibranceGUI
 
