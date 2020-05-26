@@ -26,9 +26,13 @@ Lo dejaremos tal que [así](https://i.gyazo.com/1324903f09075658503a69c5f1ac28dd
 
 ## Plan de energía
 
-Escribimos en inicio `Elegir un plan de energía` y elegimos `Alto rendimiento` o `Máximo rendimiento` en caso de ser posible.
+Nos descargamos el plan de energía de [aquí](https://drive.google.com/open?id=1MNQpjAuMuUpPf7lnXXGCwhA9eYkmzIeJ).
 
-Si solo os muestra el modo `Equilibrado` poned esto en el CMD `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
+Abrimos el CMD e importamos el archivo.
+
+Si tenemos el plan de energía en el escritorio lo que haremos será esto: `powercfg -import C:\Users\TuUsuario\Desktop\Plan-de-energía.pow`
+
+Ahora escribimos en inicio `Elegir un plan de energía` y elegimos el que hemos importado (Plan de energía de thinkii).
 
 ## Teclas especiales 
 
