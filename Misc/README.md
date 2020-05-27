@@ -18,7 +18,7 @@
 
 ## Actualizaciones de Windows
 
-Bien, yo aquí recomiendo usar siempre [Windows 10 LTSC](https://github.com/thinkii/PC/tree/master/W10%20LTSC), si buscáis por los mares lo encontraréis. ¿Por qué? Porque trae menos mierda que el W10 normal, por poneros un ejemplo no trae ni la tienda de Windows, es decir, no podréis descargaros Netflix sin hacer una movida antes. Aparte, las actualizaciones de Windows llegan unos meses más tarde que a los Windows 10 normales, es decir, que llegan ya pulidas y sin fallos.
+Bien, yo aquí recomiendo usar siempre [Windows 10 LTSC](./../W10%20LTSC/README.md), si buscáis por los mares lo encontraréis. ¿Por qué? Porque trae menos mierda que el W10 normal, por poneros un ejemplo no trae ni la tienda de Windows, es decir, no podréis descargaros Netflix sin hacer una movida antes. Aparte, las actualizaciones de Windows llegan unos meses más tarde que a los Windows 10 normales, es decir, que llegan ya pulidas y sin fallos.
 
 Una vez que tengáis eso hecho tendréis que poner en Inicio `gpedit.msc`, ya dentro iremos a `Configuración del equipo`, `Plantillas administrativas`, `Componentes de Windows`, `Windows Update` y `Configurar Actualizaciones Automáticas`.
 
@@ -95,23 +95,25 @@ Solo faltaría que estuviéramos jugando un Faceit o un oficial y se nos pusiera
 
 Aquí os dejo una lista de tareas a desactivar (afectan a privacidad y rendimiento)
 
-- \Microsoft\Windows\Application Experience > AitAgent, ProgramDataUpdater
-- \Microsoft\Windows\Autochk > Proxy
-- \Microsoft\Windows\Customer Experience Improvement Program> Consolidator, KernelCeipTask, UsbCeip
-- \Microsoft\Windows\DiskDiagnostic > Microsoft-Windows-DiskDiagnosticDataCollector
-- \Microsoft\Windows\Maintenance > WinSAT
-- \Microsoft\cSystemRestore > SR
-- \Microsoft\Windows\WindowsBackup > ConfigNotification
-- \Microsoft\Windows Defender > MP Scheduled Scan
-- \Library\Microsoft\Windows\WindowsColorSystem\Calibration Loader (disable it if you use your own Display Color Profile)
-- \Microsoft\Microsoft\CDPUserSvc
+- `\Microsoft\Windows\Application Experience > AitAgent, ProgramDataUpdater`
+- `\Microsoft\Windows\Autochk > Proxy`
+- `\Microsoft\Windows\Customer Experience Improvement Program> Consolidator, KernelCeipTask, UsbCeip`
+- `\Microsoft\Windows\DiskDiagnostic > Microsoft-Windows-DiskDiagnosticDataCollector`
+- `\Microsoft\Windows\Maintenance > WinSAT`
+- `\Microsoft\cSystemRestore > SR`
+- `\Microsoft\Windows\WindowsBackup > ConfigNotification`
+- `\Microsoft\Windows Defender > MP Scheduled Scan`
+- `\Library\Microsoft\Windows\WindowsColorSystem\Calibration Loader (disable it if you use your own Display Color Profile)`
+- `\Microsoft\Microsoft\CDPUserSvc`
 
-Copia el contenido del [siguiente archivo](https://github.com/thinkii/PC/blob/master/Misc/antitelemtry.cmd) en un txt y pone este nombre `antitelemetry.cmd`
+Copia el contenido del [siguiente archivo](./antitelemtry.cmd) en un txt y pone este nombre `antitelemetry.cmd`
 
 Ejecútalo para desactivar las cosillas de telemetría (si lo has hecho con el script de Aikon esto es inútil, porque ya lo hiciste antes). Si por otro lado quieres asegurarte de que siempre va a estar todo bloqueado puedes crear una tarea para que se ejecute siempre que inicies Windows y así te curas en salud.
 
-1. Copia el archivo en `C:\Windows` y ejecuta CMD como administrador.
-2. SCHTASKS /Create /F /RU "SYSTEM" /RL HIGHEST /SC ONSTART /TN BlockW10 /TR "cmd /c %windir%\antitelemetry.cmd"
+1. Copia el archivo en `C:\Windows` y ejecuta CMD como administrador:
+```sh
+ SCHTASKS /Create /F /RU "SYSTEM" /RL HIGHEST /SC ONSTART /TN BlockW10 /TR "cmd /c %windir%\antitelemetry.cmd"
+ ```
 
 
 ## Modo juego
