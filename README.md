@@ -1,5 +1,7 @@
 # Este repositorio está orientado a la optimización del PC para CS:GO especialmente, aunque hay cosillas que os vendrán bien en líneas generales. VALORANT guiño, guiño, codo, codo.
 
+# Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
+
 Si buscas la guía de cómo configurar tu servidor de CS:GO, está [aquí](https://github.com/thinkii/CSGO)
 
 No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enterarte de las últimas actualizaciones.
@@ -57,5 +59,3 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 - Actualizado [Plan de energía](./Misc/README.md#Plan-de-energ%C3%ADa) en `Misc` con un plan de energía nuevo, más potente y mejorado.
 
 Ahí va incluido el tutorial del Modo MSI, lo que reducirá notablemente el input lag.
-
-# Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
