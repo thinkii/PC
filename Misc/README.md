@@ -48,7 +48,7 @@ Si tu PC es una patatilla (yo también lo tengo así y el mío no lo es) tambié
 
 Botón derecho en Inicio, Sistema, [Información de sistema](https://i.gyazo.com/c403d3ca6c8dc0136ba0ee8d9a1b8354.png), [Configuración avanzada de sistema](https://i.gyazo.com/dd7ae324fc2f1496fe954eb966272d18.png) y hacemos clic [aquí](https://i.gyazo.com/7b191eb486cac3b4370bafb6c4ebd2e7.png).
 
-Si lo dejáis como [esto](https://i.gyazo.com/7573895f8ac530d7c3f45ccfc18238ac.png) no notaréis diferencia más allá de la fuente, que cambiará un poquito.
+Si lo dejáis como [esto](https://i.gyazo.com/f53c75c6dbfae67dcb24dbb8907137c7.png) no notaréis diferencia más allá de la fuente, que cambiará un poquito.
 
 ## Administración del espacio
 
