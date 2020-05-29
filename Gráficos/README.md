@@ -36,8 +36,8 @@ Repito de nuevo que yo no instalaría `Shadowplay` por muy imprescindible que fu
 
 4. Esperamos a que se descargue el driver.
 5. Marcamos todas las casillas EXCEPTO `Unattended Express Installation`. Al marcar `Show Expert Tweaks` marcaremos también las dos nuevas opciones que aparecen `Disable NVIDIA HD Audio device sleep timer` y `Enable Message Signaled Interrupts`. Si seguís leyendo un poco más abajo encontraréis más info acerca del modo MSI.
-6. Ahora se abrirá la instalación clásica (la que todos conocéis, vaya) de Nvidia.
-7. Me apetecía poner el 7, ¿casualidad?
+6. Acto seguido se abrirá una ventana con dos opciones `Install` o `Show in folder`, hacemos clic en `Install`
+7. Ahora se abrirá la instalación clásica (la que todos conocéis, vaya) de Nvidia.
 
 Las tarjetas gráficas normalmente funcionan (algunas vienen por defecto en MSI) en INT, al cambiarlo a MSI lo que hacemos es mejorar el tiempo de respuesta entre la CPU y la GPU. Esto significa que todo va a ser más "instant".
 
