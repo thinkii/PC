@@ -54,8 +54,8 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 
 - Añadido [Instalación de drivers alternativa](./Gráficos/README.md#Instalaci%C3%B3n-de-drivers-alternativa) en `Gráficos`
 
+Ahí va incluido el tutorial del Modo MSI, lo que reducirá notablemente el input lag.
+
 - Añadido [Fix de la calidad de la imagen de fondo de escritorio](./Misc/README.md#Calidad-del-fondo-de-escritorio) en `Gráficos`
 
 - Actualizado [Plan de energía](./Misc/README.md#Plan-de-energ%C3%ADa) en `Misc` con un plan de energía nuevo, más potente y mejorado.
-
-Ahí va incluido el tutorial del Modo MSI, lo que reducirá notablemente el input lag.
