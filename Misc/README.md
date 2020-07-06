@@ -11,6 +11,7 @@
 - [Modo juego](#Modo-juego)
 - [Archivo hosts](#Archivo-hosts)
 - [Calidad del fondo de escritorio](#Calidad-del-fondo-de-escritorio)
+- [HPET](#HPET)
 
 **Os recomiendo usar el [script de Aikon](https://github.com/aikoncwd/win10script) para quitar la telemetría y toda esa mierda que viene integrada en Windows.**
 
@@ -162,3 +163,21 @@ Por defecto Windows 10 capa la calidad de la imagen de fondo de escritorio y nin
 Con este fix eso se solucionará, basta con ejecutarlo y cambiar la imagen de fondo de escritorio por otra (creo que la misma vale, pero si no cambiadla por otra y volved a la original)
 
 [Descarga aquí](https://drive.google.com/open?id=1sA7iyWHrUchUcJXsCtWCU69yAtPI4eyu)
+
+## HPET
+
+HPET (High Precision Event Timers) viene a sustituir los antiguos timers Programmable Interval Timer 8254 (PIT) y Real Time Clock (RTC), encargados de generar las interrupciones necesarias para el funcionamiento de los kernels.
+
+Muchos definen HPET como "performance killer", otros dicen que depende del PC. La cosa es que yo lo he desactivado y he notado mejoría, ya no tanto en número de FPS, sino en fluidez.
+
+¿Cómo lo desactivamos?
+
+Podemos hacerlo desde la BIOS buscando HPET (yo lo he hecho así y en Windows para asegurarme 100% de que está desactivado), pero en realidad desactivándolo solo desde la BIOS dicen que ya vale, aunque yo recomiendo desactivarlo desde los dos sitios.
+
+En Windows basta con escribir en Inicio `Administrador de dispositivos`, ir a `Dispositivos del sistema`.
+
+[HPET](https://i.gyazo.com/68cebfb9bcc5fc06d43a1c10a15bbfa5.png)
+
+Le damos botón derecho a `Temporizador de eventos de alta precisión` y elegimos `Deshabilitar dispositivo`. Después de esto reiniciamos y listo.
+
+Si desactivarlo no os da ningún tipo de mejoría ponedlo de nuevo, como dije al principio cada PC es un mundo, y lo que a mí te va bien puede que a ti no.
