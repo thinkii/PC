@@ -59,3 +59,7 @@ Ahí va incluido el tutorial del Modo MSI, lo que reducirá notablemente el inpu
 - Añadido [Fix de la calidad de la imagen de fondo de escritorio](./Misc/README.md#Calidad-del-fondo-de-escritorio) en `Gráficos`
 
 - Actualizado [Plan de energía](./Misc/README.md#Plan-de-energ%C3%ADa) en `Misc` con un plan de energía nuevo, más potente y mejorado.
+
+> **06/07/2020**
+
+- Añadido [HPET](https://github.com/thinkii/PC/tree/master/Misc#HPET) en `Misc`
