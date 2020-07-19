@@ -1,4 +1,4 @@
-# Este repositorio está orientado a la optimización del PC para CS:GO especialmente, aunque hay cosillas que os vendrán bien en líneas generales. VALORANT guiño, guiño, codo, codo.
+# REPOSITORIO DESACTUALIZADO, EL CONTENIDO NUEVO ESTÁ EN DISCORD https://discord.com/invite/u86Tsub
 
 # Si te ha gustado la guía y me quieres pagar una birrita [aquí puedes](https://www.paypal.me/thinkii)
 
